@@ -687,6 +687,7 @@
             * [CountWordsTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/CountWordsTest.java)
             * [CRC16Test](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/CRC16Test.java)
             * [CRCAlgorithmTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/CRCAlgorithmTest.java)
+            * [EulersFunctionTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/EulersFunctionTest.java)
             * [FirstFitCPUTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/FirstFitCPUTest.java)
             * [KadaneAlogrithmTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/KadaneAlogrithmTest.java)
             * [LineSweepTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/LineSweepTest.java)
